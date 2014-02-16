@@ -1,4 +1,4 @@
-# Guide for a lost Computer - Windows Images
+## Guide for a lost Computer - Windows Images
 
 ==================
 
