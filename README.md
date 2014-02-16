@@ -1,20 +1,20 @@
-Guide for a lost Computer - Windows Images
+# Guide for a lost Computer - Windows Images
 
 ==================
 
-## How to use this guide
+### How to use this guide
 
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Example.jpg)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Example.jpg)
 
 
-## PART I – Preventing
+### PART I – Preventing
 
-### 1. Preventing a buildup of garbage (obsolete files)
+#### 1. Preventing a buildup of garbage (obsolete files)
 
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/CCleaner/CCleaner%201.JPG)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/CCleaner/CCleaner%201.JPG)
 
 
-### 2. Preventing the past persisting forever (obsolete configurations)
+#### 2. Preventing the past persisting forever (obsolete configurations)
 
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/CCleaner/CCleaner%202.jpg)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/CCleaner/CCleaner%202.jpg)
 
@@ -25,7 +25,7 @@ Guide for a lost Computer - Windows Images
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/CCleaner/CCleaner%204.JPG)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/CCleaner/CCleaner%204.JPG)
 
 
-### 3. Preventing data loss with cloud syncing
+#### 3. Preventing data loss with cloud syncing
 
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Cloud%20Sync/Dropbox%20icon.jpg)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Cloud%20Sync/Dropbox%20icon.jpg)
 
@@ -48,7 +48,7 @@ Guide for a lost Computer - Windows Images
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Cloud%20Sync/Paste.jpg)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Cloud%20Sync/Paste.jpg)
 
 
-### 4. Preventing data loss with Partitioning
+#### 4. Preventing data loss with Partitioning
 
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Partitioning/Computer%20Pre.jpg)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Partitioning/Computer%20Pre.jpg)
 
@@ -95,6 +95,6 @@ Guide for a lost Computer - Windows Images
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Partitioning/Delete.jpg)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Partitioning/Delete.jpg)
 
 
-### 5. Preventing a computer virus
+#### 5. Preventing a computer virus
 
 [![](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Virus/Free%20AdBlock.jpg)](https://dl.dropboxusercontent.com/u/30415492/WRD%20Guide%20Project/Virus/Free%20AdBlock.jpg)
